@@ -1,5 +1,5 @@
 // /app/contact/page.js
-import Navbar from '@/components/Navbar';  // Import Navbar
+import Navbar from "../../components/Navibar.js";
 
 export default function Contact() {
   return (

@@ -1,5 +1,5 @@
 // /app/layout.js
-import Navbar from "../../components/Navibar";
+import Navbar from "../../components/Navibar.js";
 export default function Layout({ children }) {
   return (
     <div>

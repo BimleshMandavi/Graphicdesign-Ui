@@ -1,5 +1,5 @@
 // /app/home/page.js
-import Navbar from "../../components/Navibar";
+import Navbar from "../../components/Navibar.js";
 
 export default function Home() {
   return (
