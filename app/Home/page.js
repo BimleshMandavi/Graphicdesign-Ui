@@ -1,5 +1,5 @@
 // /app/home/page.js
-import Navbar from '@/components/Navbar';  // Assuming you have a Navbar component
+import Navbar from "../../components/Navibar";
 
 export default function Home() {
   return (
